@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Enzo 👋
 
-<!--
-**enzoforeigner/enzoforeigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer and final-year Computer Engineering student at Universidade Autónoma de Lisboa.
 
-Here are some ideas to get you started:
+I have practical experience building full-stack applications, distributed systems, facial recognition solutions and API integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Languages:** Python, JavaScript, SQL, C, C++, Java
+- **Frontend:** React, HTML, CSS
+- **Backend:** FastAPI, REST APIs
+- **Databases:** PostgreSQL, Supabase
+- **Tools:** Git, GitHub, Docker, Nginx
+- **Concepts:** Microservices, Load Balancing, OOP, API Integration
+
+## Featured Projects
+
+### DevLingo
+Full-stack programming learning platform with interactive lessons, progress tracking and gamification.
+
+[View project showcase](https://github.com/enzoforeigner/devlingo-showcase)
+
+### HM Bookstore
+Distributed bookstore and inventory management system built with Python microservices, Docker, SQL and Nginx.
+
+[View project showcase](https://github.com/enzoforeigner/hm-bookstore-showcase)
+
+### BKTJaI Facial Recognition System
+Access-control application using Python, facial recognition, HTML and CSS.
+
+[View project showcase](https://github.com/enzoforeigner/facial-recognition-showcase)
+
+### Spotymusic
+Python desktop application integrated with the Spotify Web API.
+
+[View project showcase](https://github.com/enzoforeigner/spotymusic-showcase)
+
+## Currently
+
+- Completing a BSc in Computer Engineering
+- Improving DevLingo
+- Developing skills in backend and full-stack development
+- Looking for Junior Software Developer opportunities
+
+## Contact
+
+- LinkedIn: add your LinkedIn link here
+- Email: enzoforeigner@hotmail.com
+- Location: Lisbon, Portugal
