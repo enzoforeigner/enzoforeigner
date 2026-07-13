@@ -28,7 +28,7 @@ Distributed bookstore and inventory management system built with Python microser
 ### BKTJaI Facial Recognition System
 Access-control application using Python, facial recognition, HTML and CSS.
 
-[View project showcase](https://github.com/enzoforeigner/facial-recognition-showcase)
+[View project showcase](https://github.com/enzoforeigner/bktjal-facial-recognition-showcase)
 
 ### Spotymusic
 Python desktop application integrated with the Spotify Web API.
