@@ -44,6 +44,6 @@ Python desktop application integrated with the Spotify Web API.
 
 ## Contact
 
-- LinkedIn: add your LinkedIn link here
+- LinkedIn: www.linkedin.com/in/enzomanuel
 - Email: enzoforeigner@hotmail.com
 - Location: Lisbon, Portugal
